@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/javierdiligencias/diligencias/releases/download/v1.0.2/GeneradorDiligencias-v1.0.2.zip",
-  "notas": "Se añade función de conexión con BDD para exportar los datos de Eurocop"
+  "version": "1.0.4",
+  "url": "https://github.com/javierdiligencias/diligencias/releases/download/v1.0.4/GeneradorDiligencias-v1.0.4.zip",
+  "notas": "Añadir configuración separada para administrador y usuario"
 }
