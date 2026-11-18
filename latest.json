@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
-  "url": "https://github.com/javierdiligencias/diligencias/releases/download/v1.0.4/GeneradorDiligencias-v1.0.4.zip",
-  "notas": "Añadir configuración separada para administrador y usuario"
+  "version": "1.0.5",
+  "url": "https://github.com/javierdiligencias/diligencias/releases/download/v1.0.5/GeneradorDiligencias-v1.0.5.zip",
+  "notas": "Añadidos modos de programa, modo guiado (sin hacer) modo directo (el actual)"
 }
