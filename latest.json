@@ -1,5 +1,5 @@
 {
-  "version": "1.0.7",
-  "url": "https://github.com/javierdiligencias/diligencias/releases/download/v1.0.7/GeneradorDiligencias-v1.0.7.zip",
-  "notas": "Correccion: se incluye valorar_requiere_atestado.yaml (modo guiado)"
+    "version":  "1.0.10",
+    "url":  "https://github.com/javierdiligencias/diligencias/releases/download/v1.0.10/GeneradorDiligencias-v1.0.10.zip",
+    "notas":  ""
 }
